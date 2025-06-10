@@ -2,8 +2,9 @@
 
 This project is a complete redesign of the "Choose Your Skip Size" page from [WeWantWaste](https://wewantwaste.co.uk/), aiming to enhance the user interface, responsiveness, and overall user experience while preserving the original functionality.
 
-## 🚀 Live Preview
-[CodeSandbox Live Link](#) <!-- ← ضع رابط الكود هنا بعد ما ترفعه -->
+## 🚀 Live Preview  
+[CodeSandbox Live Link](https://codesandbox.io/p/github/mohamedtarek45/REMWaste-Task/main?import=true)
+
 
 ## 📸 Original vs Redesigned Page
 The original page is functional but lacks a modern, responsive design and clear UX direction. This redesigned version improves:
